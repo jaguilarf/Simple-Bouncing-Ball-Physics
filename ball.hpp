@@ -3,8 +3,6 @@
 
 #include <SFML/Graphics/CircleShape.hpp>
 
-#include <iostream>
-
 class BALL
 {
 private:
